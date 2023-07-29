@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Himanshu Kumar
-- 👀 I’m interested in *Web Development*
+- 👀 I’m interested in *Web Development* *Data Science*
 - 🌱 I’m currently learning *Javascript*
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hy825413@gmail.com
