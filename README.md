@@ -1,4 +1,4 @@
-- 👋 Hello, My Name is Himanshu Kumar
+- 👋 Hello, My Name is *Himanshu Kumarstrong*
 - 👀 I’m interested in *Full Stack Development*,*Data Science*
 - 🌱 I’m currently learning *JavaScript*,*Php*, and *MySQL*
 - 💞️ I’m looking to collaborate on *Web Development Topics*
