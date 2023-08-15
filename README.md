@@ -1,7 +1,7 @@
 - 👋 Hello, My Name is *Himanshu Kumar*
 - 👀 I’m interested in *Full Stack Development*,*Data Science*
 - 🌱 I’m currently learning *JavaScript*,*Php*, and *MySQL*
-- 💞️ I’m looking to collaborate on *Web Development Topics*
+- 💞️ I’m looking to collaborate on *Web Development related Topics*
 - 📫 How to reach me *hy825413@gmail.com*
 
 <!---
