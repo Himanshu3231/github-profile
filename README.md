@@ -1,8 +1,8 @@
 - 👋 Hello, My Name is *Himanshu Kumar*
 - 👀 I’m interested in *Data Science*
-- 🌱 I’m currently learning *Python* , *MySQL*
-- 💞️ I’m looking to collaborate on *Data Science elated Topics*
-- 📫 How to reach me *hy825413@gmail.com*
+- 🌱 I’m currently learning *Python* , *SQL*, *Power BI*, *Tableau*, *MS Excel*
+- 💞️ I’m looking to collaborate on *Data Science related Topics*
+- 📫 How to reach me *ds.himanshu.kumar@gmail.com*
 
 <!---
 Himanshu3231/Himanshu3231 is a ✨ unique ✨ repository because its `README.md` (this file) appears on your GitHub profile.
