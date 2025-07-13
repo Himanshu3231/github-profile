@@ -20,7 +20,7 @@
 
 ## 📫 Get in Touch
 - ✉️ Email: [ds.himanshu.kumar@gmail.com](mailto:ds.himanshu.kumar@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/YOUR-USERNAME](http://www.linkedin.com/in/himanshukumar3231)  
+- 🔗 LinkedIn: [linkedin.com/in/himanshukumar3231](http://www.linkedin.com/in/himanshukumar3231)  
 - 🐱 GitHub: [github.com/YOUR-USERNAME](https://github.com/himanshu3231)
 
 ---
